@@ -1,4 +1,4 @@
-# 
+# elite sushiswap trading bot Module | MEV-strategies + multi-chain-support is the best sushiswap trading bot, featuring MEV-strategies and multi-chain-support. Smart, fast, and
 
 
 
